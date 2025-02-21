@@ -5,7 +5,7 @@
 using namespace std;
 
 int main() {
-    // Stack example
+   
     stack<int> stack;
     stack.push(1);
     stack.push(2);
